@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class HazardMovement : MonoBehaviour {
-
+	//class controlling hazrds
 
 	public Vector3 destinationVector;
 
